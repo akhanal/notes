@@ -1,10 +1,9 @@
 ## IBM AI Certificate Program Course Map (Ordered by Learning Sequence)
 
-| **Program Start Date**                                                           | —        | 2019 (v1)      | Nov 2024           | 2020 (v1)     |
-| **Latest Major Update**                                                          | —        | Nov 2024 (v3)  | Nov 2024           | Nov 2024      |
-
 | Course                                                                           | Old/New | AI Engineering | Gen AI Engineering | AI Developer |
 |----------------------------------------------------------------------------------|:--------:|:--------------:|:------------------:|:-------------:|
+| **Program Start Date**                                                           | —        | 2019 (v1)      | Nov 2024           | 2020 (v1)     |
+| **Latest Major Update**                                                          | —        | Nov 2024 (v3)  | Nov 2024           | Nov 2024      |
 | Machine Learning with Python                                                     | Old      | ✅             | ⬜                 | ✅           |
 | Introduction to Deep Learning & Neural Networks with Keras                      | Old      | ✅             | ✅ (imported)      | ✅           |
 | Deep Learning with Keras & TensorFlow                                           | Old      | ✅             | ✅ (imported)      | ⬜            |

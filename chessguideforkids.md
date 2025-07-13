@@ -11,8 +11,6 @@ Imagine your chess board is a checkerboard with light and dark squares.
 **Your Pieces (you'll have 16 of them!)**
 
 * **Pawn (8 of them):** These are your smallest pieces. They look like little bumps.
-    http://googleusercontent.com/image_generation_content/0
-
 * **Rooks (2 of them):** They look like mini castles or towers.
 * **Knights (2 of them):** They look like horses!
 * **Bishops (2 of them):** They have a little cut in their top, like a fancy hat.

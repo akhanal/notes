@@ -8,6 +8,8 @@ Hi there! Chess is a super fun game, and you can totally learn it. It's like a p
 
 Imagine your chess board is a checkerboard with light and dark squares.
 
+![Chess Board](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/CHESScom/phphK5JVu.png)
+
 **Your Pieces (you'll have 16 of them!)**
 
 * **Pawn (8 of them):** These are your smallest pieces. They look like little bumps.

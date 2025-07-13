@@ -10,7 +10,9 @@ Imagine your chess board is a checkerboard with light and dark squares.
 
 **Your Pieces (you'll have 16 of them!)**
 
-* **Pawns (8 of them):** These are your smallest pieces. They look like little bumps.
+* **Pawn (8 of them):** These are your smallest pieces. They look like little bumps.
+    http://googleusercontent.com/image_generation_content/0
+
 * **Rooks (2 of them):** They look like mini castles or towers.
 * **Knights (2 of them):** They look like horses!
 * **Bishops (2 of them):** They have a little cut in their top, like a fancy hat.
@@ -134,9 +136,8 @@ Castling is a great way to make your King safer and get your Rook ready for acti
 
 ### Part 6: Your First Steps to Playing!
 
-1.  **Watch a Video:** Ask a grown-up to search for "how to set up a chess board for kids" or "how chess pieces move for kids" on YouTube. Sometimes seeing it helps a lot!
-2.  **Practice Moving:** Just get out a board and practice moving each piece one by one. Don't worry about an opponent yet. Just move your pawns, then your rooks, etc.
-3.  **Play with a Grown-Up (Patiently!):** Ask a parent or older sibling to play a *very slow* game with you.
+1.  **Practice Moving:** Just get out a board and practice moving each piece one by one. Don't worry about an opponent yet. Just move your pawns, then your rooks, etc.
+2.  **Play with a Grown-Up (Patiently!):** Ask a parent or older sibling to play a *very slow* game with you.
     * **Rule 1:** Remind them to tell you what piece they are moving and how it moves.
     * **Rule 2:** Don't worry about winning or losing at first. Just try to remember how your pieces move!
     * **Rule 3:** Ask questions! "Can my pawn move there?" "Is my King safe?"

@@ -15,9 +15,7 @@ This flow outlines how a secure session is established when the user first loads
 
 ```mermaid
 sequenceDiagram
-    participant Browser B
-    participant Server A (React App Host)
-    participant Server C (API Server)
+
 
     Browser B->>Server A: GET / (Request for React App)
     Server A-->>Browser B: HTML, CSS, JS (React App)
@@ -50,8 +48,7 @@ This diagram shows how the browser uses the established session to make authenti
 
 ```mermaid
 sequenceDiagram
-    participant Browser B
-    participant Server C (API Server)
+
 
     Browser B->>Server C: POST /ask<br/>Header: X-CSRF-Token: abc<br/>Cookie: sessionId=xyz
     Note right of Server C: 1. Get sessionId from cookie<br/>2. Get CSRF token from X-CSRF-Token header<br/>3. Validate session and CSRF token<br/>4. Process request
